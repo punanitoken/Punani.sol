@@ -1,15 +1,15 @@
-#A craze for crypto
+<h1>A craze for crypto </h1><br>
 Though cryptocurrency and DeFi seem to be widely adopted, they are not. Mass adoption is still a far cry. Though several DeFi coins arrive at the market, their value rises and falls drastically, making the community keep looking for the next evolutionary coin. The major drawback with other coins in the market is they do not bring any value to the token holders, and hardly have a purpose. Punani token, on the other hand, is community and purpose-driven, standing out from the crowd and becomes the next evolutionary coin in DeFi space.
-#No room for rug pull
+<h2>No room for rug pull</h2>
 The major problem faced by the leading decentralized exchanges like Uniswap, and Pancakeswap is the rug pull that occurs due to lack of liquidity. In conventional liquidity pools, the liquidity of tokens lies in the hands of crypto whales who hold the majority of the tokens in circulation. When they sell a huge number of tokens, the liquidity is pulled out from the pool, adversely affecting the token holders. Punani token is an anti-whale system and its protocol incurs a fee of 9% on every transaction, of which 3% is liquidity locked. Thus, when a user transacts Punani token, 3% of tokens transferred are fed back to the liquidity to enhance the liquidity of tokens. Thus, the Punani token aims to deliver a stable and sustainable cryptocurrency through liquidity locking.
 
 
 Also, liquidity is locked for 5 years, making Punani the most sustainable token. This liquidity locking for 5 years, and incorporation of transaction fees to the liquidity pools, makes the price floor of the punani token hit the roof. Thus Punani token is designed in a way to achieve stable growth targets.
-#Incentivization to holders
+<h2>Incentivization to holders</h2>
 Punani token is community-driven and it brings significant financial value to its holders. The Punani token's protocol is based on the reflection mechanism. Every time punani tokens are transacted, 6% of the fee will be reflected in the holder's wallets. Thus, the Punani token offers the best less resource-intense alternative for mining and crypto trading. Earning becomes relentless with Punani. All you have to do is just hold. 
-#Driven by smart contracts
+<h2>Driven by smart contracts</h2>
 The collection of network fees, liquidity locking 3% of the fees, and reflecting 6% to the holders are fueled by smart contracts. There is no room for dispute as the smart contracts are already deployed on top of the Binance Smart Chain. The operations are carried out without any human intervention, and this intermediary-less operation makes Punani, a genuine coin for charity. Being powered by smart contracts, the Punani token offers a high degree of transparency, and democratization to the users.
-#Punani for a noble cause
+<h2>Punani for a noble cause</h2>
 In addition to bringing financial stability to the lives of Punnai token holders, the ultimate aim of the Punani tokens is to bring value to millions of lives. Punani token is tied up with various charitable organizations around the globe to eliminate the prominent social issues faced by women today. While the fellow competitors aim to reach the moon, Punani decides to make the world, a better place to live in through the noble act of charity. 
 Punani token donates a part of its profit to cervical cancer and infertility charities, supporting and empowering fellow women peers in society. These issues are underrated and at times are considered embarrassing to discuss vagina and fertility in public. This left them unrecognized and they hardly get helps from people. Punani breaks the convention and takes that stigma away to a lot of good.
 Punani works with many Non-profitable organizations to put smiles on the faces of people who are less fortunate. Punani token allocates a separate charity wallet to ensure that money reaches the intended parties without any fail. Punani token is accountable for every single penny donated and it updates the proof of charitable donations in its official Telegram channel.
